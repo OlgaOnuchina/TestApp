@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Учет эксплуатации автопогрузчиков</string>
+    <string name="text_welcome">Введите имя пользователя и пароль</string>
+    <string name="text_login">Начать работу</string>
+    <string name="text_userName">Имя пользователя</string>
+    <string name="text_password">Пароль</string>
+    <string name="text_scan">Сканируйте штрихкод</string>
+    <string name="text_barcode">Штрихкод</string>
+    <string name="text_info_empty">Информация о погрузчике</string>
+    <string name="text_add_downtime">Зарегистрировать простой</string>
+    <string name="text_start_downtime">Начало простоя</string>
+    <string name="text_finish_downtime">Окончание простоя</string>
+    <string name="text_Header">Заполните данные о новом простое:</string>
+    <string name="text_comment">Комментарий</string>
+    <string name="text_save">Сохранить</string>
+    <string name="textDateTime">Выбрать</string>
+
+
+</resources>
